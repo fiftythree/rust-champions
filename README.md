@@ -9,3 +9,4 @@
 |---|------------------|------|
 | 1 | Ilya Maximov     | 2022 |
 | 2 | Artyom Popov     | 2022 |
+| 3 | Maxim Plotnikov  | 2022 |
